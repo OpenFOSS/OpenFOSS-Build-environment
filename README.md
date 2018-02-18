@@ -8,7 +8,7 @@ Ensure that you have [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and
 
 You have to run the following for Vagrant to share a local directory between your localbox and it's image. This way you can do your development on your machine with whatever IDE you want, and share the openmrs-core directory between the vagrant VM and your local machine.
 
-    git clone https://github.com/openmrs/openmrs-core
+    git clone https://github.com/OpenFOSS/openmrs-core
 
 please ensure that it's within the same directory as this readme, as the pathing for this is relative.
 
